@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm ViorelH! 👋
 
-<!--
-**ViorelH/ViorelH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Developer passionate about building projects and learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 Currently working through the **100 Days of Code Python Bootcamp**.
+- 🌱 Learning **Python**, **Flask**, **APIs**, and **automation**.
+- 🧠 Exploring AI, Machine Learning, and Data Science.
+- 📚 Posting **daily projects** on my GitHub (check out the pinned repositories below 👇).
+- 💬 Ask me about Python, Git, and project-based learning.
+- 📫 How to reach me: https://www.linkedin.com/in/viorel-hirjoghi-63642621a/
+- ⚡ Fun fact: I love solving real-world problems with code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals for 2025
+- Finish the 100 Days of Code.
+- Build AI projects with Python.
+- Contribute to open-source.
+- Land my first developer position!
+
+---
+
+_“Consistency over perfection.”_
+
